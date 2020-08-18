@@ -37,5 +37,17 @@ body{
 .single-result{
     background: rgba(255, 255, 255, 0.2);
     border-radius: 15px;
+    border-bottom: 2px solid maroon;
 }
+/* #songs-container{
+    display: none;
+}
+
+#lyrics-container{
+    display: none;
+}
+
+#fancy{
+    display: none;
+} */
 
